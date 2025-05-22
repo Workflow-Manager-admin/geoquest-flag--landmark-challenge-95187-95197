@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for GeoQuest: Flag & Landmark Challenge', 'description': 'Primary container for GeoQuest: Flag & Landmark Challenge implementation: An interactive educational game that challenges players to identify countries through their national flags, with multiple difficulty modes including guessing flags, capital cities, landmarks, and continents.', 'framework': 'react', 'platform': 'web'}",
+  "tasks": {},
+  "next_task_id": 1
+}
