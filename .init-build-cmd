@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/geoquest-flag--landmark-challenge-95187-95197/main_container_for_geoquest_flag_landmark_challenge"
+}
